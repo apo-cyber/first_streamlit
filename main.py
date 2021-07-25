@@ -3,6 +3,7 @@ import yfinance as yf
 import altair as alt
 import streamlit as st
 
+st.markdown('** apo_cyber present **')
 st.title('Stok Price Visualization Tool')
 
 st.sidebar.write("""
